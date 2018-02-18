@@ -1,0 +1,32 @@
+#Enable latex
+mathjax : TeX-MML-AM_HTMLorMML-full
+
+#Theme Setting(black, moon, night, beige, sky, white が設定可)
+theme : night
+
+#Background Setting
+#background : 
+
+#Logo Setting
+#logo : 
+
+#Slide Number Setting
+slide-number: true
+
+#Footnote Setting
+footnote :  "footnote test"
+
+#Highlight Setting
+#highlight : mono-blue
+
+#Mouse Wheel Setting
+#mousewheel : true
+
+#Transition Setting
+#transition : fade
+
+#Vertical Center Setting（falseで上詰め）
+#vertical-center : false
+
+#Auto Slide Setting (millisecond unit)
+#autoslide : 5000
