@@ -25,6 +25,6 @@ $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 ---
 ### slide 3
 
-> 画像も貼れる
+> 画像も貼れる。サイズ指定のために img タグがよさそう
 
-![alt](assets/omega.png)
+<img src="assets/omega.png" width="400">
